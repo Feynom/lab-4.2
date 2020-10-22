@@ -16,8 +16,6 @@ int main()
     cout << "Введіть значення 'хk'"; cin >> xk;
     cout << "Введіть значення 'dx'"; cin >> dx;
 
-    x = xp;
-
     cout << fixed;
     cout << "-----------------------" << endl;
     cout << "|" << setw(5) << "x" << "     |";
